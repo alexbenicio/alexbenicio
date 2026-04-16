@@ -6,7 +6,7 @@ Atuo com desenvolvimento backend em **Java**, regras de negócio complexas utili
 
 > "Acredito que software de qualidade nasce da combinação entre código limpo, processos bem definidos e colaboração constante."
 
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCruz-coder&show_icons=true&theme=radical)
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=alexibcruz&show_icons=true&theme=radical)
 
 ---
 
